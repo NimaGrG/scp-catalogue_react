@@ -6,7 +6,7 @@ import Home from './pages/Home';
 import Catalogue from './pages/Catalogue';
 import Search from './pages/Search';
 import Admin from './pages/Admin';
-import Login from './pages/login';
+import Login from './pages/Login';
 import './App.css';
 
 function App() {
